@@ -1,0 +1,32 @@
+{
+  "name": "starter-kit",
+  "version": "0.0.1",
+  "description": "Simple starter kit - HTML, CSS, LESS, SASS, JS",
+  "main": "client/js/index.js",
+  "scripts": {
+    "less": "gulp less"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinnov92/Starter-kit.git"
+  },
+  "keywords": [
+    "Starter",
+    "kit",
+    "HTML",
+    "CSS",
+    "LESS",
+    "SASS",
+    "JS"
+  ],
+  "author": "Martin Novák <https://github.com/martinnov92>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martinnov92/Starter-kit/issues"
+  },
+  "homepage": "https://github.com/martinnov92/Starter-kit#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.2"
+  }
+}
